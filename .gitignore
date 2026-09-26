@@ -1,2 +1,5 @@
 .env
-.pycache
+*.env
+jims_env/
+__pycache__/
+*.pyc
