@@ -122,5 +122,5 @@ response = client.interactions.create(
     input = career_prompt,
     generation_config=generation_config,
 )
-print("==== GEMINI ====")
+print("#==== GEMINI ====#")
 print(response.output_text)
